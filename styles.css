@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+#Container{
+	padding:20px;
+	background-color:#f5f5f5;
+}
+.abc{
+	padding:5px;
+	background-color:white;
+	border:solid;
+	border-width:1px;
+}
+.def{
+	padding:96.5px;
+/* 	color:red; */
+}

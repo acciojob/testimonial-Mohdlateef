@@ -10,6 +10,8 @@
 	border-width:1px;
 }
 .def{
-	padding:96.5px;
+	padding:96px;
+	text-align:right;
+	font-style:italic;
 /* 	color:red; */
 }
